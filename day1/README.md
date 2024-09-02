@@ -31,3 +31,12 @@
 
 <img src="gptm.png">
 
+## Good prompt components 
+
+<img src="compo1.png">
+
+### more better example of good prompt 
+
+<img src="goodpmp.png">
+
+

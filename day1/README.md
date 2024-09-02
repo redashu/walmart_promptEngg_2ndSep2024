@@ -18,4 +18,8 @@
 
 <img src="genai1.png">
 
+### LLM more info 
+
+<img src="llm11.png">
+
 

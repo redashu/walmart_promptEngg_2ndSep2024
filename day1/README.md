@@ -1,1 +1,4 @@
-# walmart_promptEngg_2ndSep2024
+## basic understanding of prompting 
+
+<img src="promp1.png">
+

@@ -26,3 +26,8 @@
 ## Prompt engineering for LLM's
 
 <img src="promp111.png">
+
+### Basic of prompt for GPT model 
+
+<img src="gptm.png">
+

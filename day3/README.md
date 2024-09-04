@@ -35,3 +35,27 @@ output: *
 "joke": "a joke on the situation , delivered in the style of the actor..."}
 ```
 
+## a good way to write prompt 
+
+<img src="prompg.png">
+
+##
+
+```
+Instructions
+---
+Let's create a numeric list of 10 articles headlines that i could write about the topic: digital marketing ?
+follow the output format given below
+
+
+[output format]:
+---
+:- 10 Digital marketing strategies
+:- The way to Boost your Business online
+
+
+Rules
+---
+ Don't talk about SEO in the article titles 
+avoid including any references to blogging  or email /SMS marketing with the headline generated
+```

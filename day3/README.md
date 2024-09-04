@@ -37,7 +37,7 @@ output: *
 
 ## a good way to write prompt 
 
-<img src="prompg.png">
+<img src="promptg.png">
 
 ##
 

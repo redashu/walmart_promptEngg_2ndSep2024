@@ -14,3 +14,24 @@ anchored prompt:
 
 <img src="temp1.png">
 
+### Understanding GPT model input parameters for templating 
+
+<img src="temp22.png">
+
+### Template one 
+
+```
+act like a person who is doing pretty well in standup comedy on stage. your humor should be good and the style and tone of the request comedian.
+This means you should observer their delivery style and tone and subject as well.
+The jokes should be made funny as much as possible, as the disclaimer you can always use some understood details. anywhere you use a offnesive words , beep it out [F*ck].
+
+Deliver the joke in Json format with a disclaimer and the joke is here as key.
+
+input: *  
+{"situation": "the topic of joke" , "actor":  " the comedian style "}
+
+output: * 
+{"disclaimer": "as an AI model ...", 
+"joke": "a joke on the situation , delivered in the style of the actor..."}
+```
+

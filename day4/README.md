@@ -21,3 +21,8 @@
 
 [click_here](https://openai.com/api/pricing/)
 
+### manual upload file to do analysis in chatgpt 
+
+<img src="gpt1.png">
+
+

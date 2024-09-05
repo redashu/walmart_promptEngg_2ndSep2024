@@ -12,3 +12,12 @@
 
 <img src="dm.png">
 
+
+### apiKey understanding 
+
+<img src="api1.png">
+
+### api Billing 
+
+[click_here](https://openai.com/api/pricing/)
+
